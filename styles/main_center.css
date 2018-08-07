@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+
+#center{
+	left:0;
+	position: relative;
+	padding-top: 5px;
+	width:210px;
+	height: 465px;
+}
+
+#bigAd{
+	float: left;
+	margin-left: 210px;
+}

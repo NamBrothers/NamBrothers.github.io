@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+
+body{
+	width: 1000px;
+	margin: 0 auto;
+	background-color: #afc9e6;
+}
+
+#page_wrapper{
+	background-color: white;
+	margin: 5px 0;
+	border-radius: 10px;
+	padding: 10px 10px;
+}

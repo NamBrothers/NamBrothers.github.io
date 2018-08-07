@@ -1,0 +1,58 @@
+@CHARSET "UTF-8";
+
+#right{
+	position: absolute;
+	margin-left: 730px;
+	top:5px;
+}
+
+#right>ul>li{
+	margin-bottom: 7px;
+}
+
+#b_logo{
+	position: absolute;
+	display: inline;
+	width:20px;
+	height:20px;
+	margin:0;
+	padding:0;
+}
+#blog{
+	padding-left:23px;
+	padding-bottom:1px;
+}
+#t_logo{
+	position: absolute;
+	display: inline;
+	width:20px;
+	height:20px;
+	margin:0;
+	padding:0;
+}
+#twitter{
+	padding-left:23px;
+	padding-bottom:1px;
+}
+#f_logo{
+	position: absolute;
+	display: inline;
+	width:20px;
+	height:20px;
+	margin:0;
+	padding:0;
+}
+#facebook{
+	padding-left:23px;
+	padding-bottom:1px;
+}
+
+.news{
+	display: block;
+	left:10px;
+	width:250px;
+	height:45px;
+	overflow: scroll;
+	color: #262626;
+	font-size: 13px;
+}
